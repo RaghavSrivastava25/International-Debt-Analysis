@@ -1,3 +1,4 @@
 # International-Debt-Analysis
-International debt statistics analysis
+International Debt statistical analysis.
+
 Dataset exploration and analysis using PostgreSQL
